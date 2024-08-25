@@ -1,9 +1,3 @@
-Let's modify the README to reflect a Next.js application instead of a React app. Since Next.js is a React framework with additional features like server-side rendering, routing, and API routes, we'll update the instructions and descriptions accordingly.
-
-Here’s the updated README file:
-
----
-
 # GIF Search Application
 
 This is a GIF Search application built with **Next.js** that allows users to search for GIFs, view trending GIFs, filter by categories, and manage their favorite GIFs. The application uses the Giphy API to fetch and display GIFs.
